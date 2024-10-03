@@ -1,0 +1,27 @@
+Valor do Imóvel: R$ 1289283,00
+Prazo de financiamento: 7 anos
+Taxa de juros anual: 5,00%
+Pagamento mensal: R$ 537201,25
+Valor do financiamento: R$ 45124905,00
+Quantidade de vagas de garagem: 1
+Andar: 2
+
+Valor do Imóvel: R$ 12124903,00
+Prazo de financiamento: 12 anos
+Taxa de juros anual: 6,00%
+Pagamento mensal: R$ 128827,09
+Valor do financiamento: R$ 18551101,59
+Tipo de zona: Residencial
+
+Valor do Imóvel: R$ 4434443,00
+Prazo de financiamento: 12 anos
+Taxa de juros anual: 6,00%
+Pagamento mensal: R$ 49887,48
+Valor do financiamento: R$ 7183797,66
+Valor do acréscimo por parcela: R$ 7390,74
+Valor do desconto por parcela: R$ 3695,37
+Área construída: 3232,00 m²
+Tamanho de terreno: 2334,00 m²
+
+Valor total de imóveis: R$ 17848629,00
+Valor total de financiamentos: R$ 70859804,25
