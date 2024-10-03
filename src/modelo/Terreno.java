@@ -1,7 +1,7 @@
 package modelo;
 
 public class Terreno extends Financiamento {
-    private String zona;
+    private final String zona;
 
     public Terreno(double valorDesejadoImovel, int prazoFinanciamento, double taxaJurosAnual, String zona) {
         super(valorDesejadoImovel, prazoFinanciamento, taxaJurosAnual);
@@ -13,7 +13,8 @@ public class Terreno extends Financiamento {
     }
 
     @Override
-    // Método para calcular o valor total a ser pago ao final do financiamento
+    // Metodo para calcular o valor total a ser pago ao final do financiamento.
+
     public double calcularTotalPagamento() {
         int meses = getPrazoFinanciamento() * 12;
         return calcularValorPagamentoMensal() * meses;

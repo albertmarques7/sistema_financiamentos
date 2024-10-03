@@ -29,7 +29,7 @@ import java.util.Scanner;
 public class Main {
 
     /**
-     * Método principal do sistema de financiamento de imóveis.
+     * Metodo principal do sistema de financiamento de imóveis.
 
      * Executa o fluxo principal que inclui a solicitação de dados de financiamento,
      * o cálculo de valores totais e a escrita dos dados em um arquivo.
